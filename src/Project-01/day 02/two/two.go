@@ -1,0 +1,8 @@
+// 多变量声明
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("123")
+}
