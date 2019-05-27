@@ -4,6 +4,10 @@ package main
 import "fmt"
 
 func main() {
-	var i int = 10
-	fmt.Println(i)
+	var one int = 10
+	fmt.Println(one)
+
+	// 测试一下int8的范围
+	var two int8 = -128
+	fmt.Println(two)
 }
